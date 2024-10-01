@@ -1,7 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<%request.setCharacterEncoding("utf-8"); %>
-<%response.setContentType("text/html;charset=UTF-8"); %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,5 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h1>HOME</h1>
+<h2>Hello Spring!!</h2>
 </body>
 </html>
